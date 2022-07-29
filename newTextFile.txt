@@ -1,1 +1,2 @@
 A new text file is created and a line is written to it.
+Second line to solve the issue number #1.
